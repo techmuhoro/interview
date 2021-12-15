@@ -1,7 +1,4 @@
 export * from './Button';
-export * from './ButtonA';
-export * from './ButtonB';
-export * from './ButtonC';
 export * from './ComponentA';
 export * from './ComponentB';
 export * from './ComponentC';

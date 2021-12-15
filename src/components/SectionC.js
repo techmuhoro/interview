@@ -7,7 +7,9 @@ export function SectionC() {
   return (
     <div className='border-b border-gray-500 pt-20 pl-10 pb-20'>
       <p className='font-bold text-2xl mb-5'>Section C</p>
-      <ComponentA />
+      <div className='flex justify-center'>
+        <ComponentA />
+      </div>
     </div>
   );
 }
